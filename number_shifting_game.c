@@ -86,9 +86,9 @@ void Rules()
     printf("\t(1).You can move only 1 step at a time by arrow key\n\n");
 
     printf("\t\tMove Right : by RIGHT Arrow -> key\n");
-    printf("\t\tMove Right : by LEFT Arrow <- key\n");
-    printf("\t\tMove Right : by UP Arrow ^ key\n");
-    printf("\t\tMove Right : by DOWN Arrow key");
+    printf("\t\tMove Left : by LEFT Arrow <- key\n");
+    printf("\t\tMove Up : by UP Arrow ^ key\n");
+    printf("\t\tMove Down : by DOWN Arrow key");
     printf("%c\n",25);
 
 
